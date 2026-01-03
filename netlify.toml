@@ -4,7 +4,7 @@
   command = "npm run build"
 
 [build.environment]
-  REACT_APP_API_URL = "https://your-backend-render-url.onrender.com"  # Replace with your actual backend URL
+  REACT_APP_API_URL = "https://contact-management-app-gcq2.onrender.com/"  # Replace with your actual backend URL
 
 [[redirects]]
   from = "/*"
