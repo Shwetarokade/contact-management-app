@@ -12,6 +12,10 @@ A full-stack contact management application built with React, Node.js, Express, 
 - ✅ Responsive design with modern UI
 - ✅ Real-time updates
 
+## Screenshots
+<img width="1239" height="512" alt="image" src="https://github.com/user-attachments/assets/aece15bc-a960-459c-9299-9fe50e5a2596" />
+<img width="1744" height="882" alt="image" src="https://github.com/user-attachments/assets/62c6f9f0-1e9f-4fdc-8108-4c275769ef46" />
+
 ## Tech Stack
 
 ### Frontend
@@ -139,4 +143,6 @@ ISC
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
 
